@@ -1,0 +1,8 @@
+"# Comandos Git Aprendidos" 
+"| Comando | O que faz |" 
+"|---------|-----------|" 
+"| git init | Inicializa um reposit¢rio |" 
+"| git add | Adiciona arquivos ao stage |" 
+"| git commit | Salva as mudan‡as |" 
+"| git log | Mostra o hist¢rico |" 
+"| git push | Envia para o GitHub |" 
