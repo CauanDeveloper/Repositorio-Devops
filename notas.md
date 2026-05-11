@@ -1,0 +1,5 @@
+"# Notas das Aulas" 
+"## Aula 1 - Git B sico" 
+"- git init: inicializa reposit¢rio" 
+"- git add: seleciona arquivos para commit" 
+"- git commit: salva no hist¢rico" 
